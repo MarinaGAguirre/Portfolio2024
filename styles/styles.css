@@ -361,7 +361,7 @@ section {
             width: 70%;
           }
           .nodejs {
-            width: 60%;
+            width: 70%;
           }
           .expressjs {
             width: 75%;
@@ -386,6 +386,12 @@ section {
           }
           .vscode {
             width: 80%;
+          }
+          .wordpress {
+            width: 75%;
+          }
+          .woocommerce {
+            width: 75%;
           }
         }
       }
