@@ -378,6 +378,9 @@ section {
           .handlebars {
             width: 70%;
           }
+          .reactjs {
+            width: 70%;
+          }
           .react {
             width: 60%;
           }
@@ -392,6 +395,43 @@ section {
           }
           .woocommerce {
             width: 75%;
+          }
+          .spanish {
+            width: 100%;
+          }
+          .english {
+            width: 60%;
+          }
+
+          .resilience {
+            width: 85%;
+          }
+          .adaptability {
+            width: 95%;
+          }
+          .communication {
+            width: 98%;
+          }
+          .teamwork {
+            width: 90%;
+          }          
+          .problem {
+            width: 90%;
+          }
+          .thinking {
+            width: 90%;
+          }
+          .time {
+            width: 90%;
+          }
+          .detail {
+            width: 95%;
+          }
+          .persuasion {
+            width: 85%;
+          }
+          .encourage {
+            width: 90%;
           }
         }
       }
@@ -498,7 +538,7 @@ section {
         font-size: 1.3rem;
         color-scheme: var(--color-white);
         margin-bottom: 0.5rem;
-        margin-top: 9rem;
+        margin-top: 6rem;
       }
       p {
         font-size: 0.75rem;
@@ -862,7 +902,7 @@ section {
 
 .btn-container {
   display: flex;
-  align-items: flex-start;
+  align-items:flex-start;
   padding-top: 0;
   margin-top: .7rem;
 }
@@ -900,8 +940,9 @@ section {
   display: flex;
   align-items: center;
   overflow: hidden;
+  margin-right: 0.8rem;
   .btn-text {
-    padding: 0 1.3rem;
+    padding: 0 1rem;
   }
   .btn-icon {
     background-color: var(--color-secondary);
