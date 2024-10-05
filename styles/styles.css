@@ -276,7 +276,7 @@ section {
         display: flex;
         flex-direction: column;
         .large-text {
-          font-size: 3.5rem;
+          font-size: 2.5rem;
           font-weight: 700;
           color: var(--color-secondary);
         }
@@ -284,7 +284,7 @@ section {
       .small-text {
         padding-left: 1rem;
         position: relative;
-        text-transform: uppercase;
+        text-transform: ;
         font-size: 0.8rem;
         color: var(--color-gray-1);
         letter-spacing: 1px;
@@ -400,9 +400,8 @@ section {
             width: 100%;
           }
           .english {
-            width: 60%;
+            width: 75%;
           }
-
           .resilience {
             width: 85%;
           }
